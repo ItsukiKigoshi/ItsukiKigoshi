@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm NOT an engineer.
+I'm NOT an engineer/programmer.
 <!--
 **ItsukiKigoshi/ItsukiKigoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
