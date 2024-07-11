@@ -1,18 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 I'm NOT an engineer but wanna be a creator/artist.
 
--  🔭I’m currently thinking of creating...
-  - [Shinonome Bunko](https://github.com/ItsukiKigoshi/shinonome-bunko): Automated git-based OCR&peer-review platform for publishing public domain Japanese literature as e-books.
-  - [Curhythm](https://github.com/ItsukiKigoshi/curhythm): Rubik's Cube-alike musical instrument to generate beat, melody, harmony & video.
-  - [ICU Catalogue](https://github.com/ItsukiKigoshi/icu-catalogue): Powerful syllabi search engine and academic planning tool for ICU students.
-  - OpenPoliCash: Git-based open-source 政治資金収支報告書 database with an Open Data
-  - open-desk-view: Open-sourced webcam tool for showing docs on ur table with ease.
+### 🔭I’m currently thinking of creating...
+- [Shinonome Bunko](https://github.com/ItsukiKigoshi/shinonome-bunko): Automated git-based OCR&peer-review platform for publishing public domain Japanese literature as e-books.
+- [Curhythm](https://github.com/ItsukiKigoshi/curhythm): Rubik's Cube-alike musical instrument to generate beat, melody, harmony & video.
+- [ICU Catalogue](https://github.com/ItsukiKigoshi/icu-catalogue): Powerful syllabi search engine and academic planning tool for ICU students.
+- OpenPoliCash: Git-based open-source 政治資金収支報告書 database with an Open Data
+- open-desk-view: Open-sourced webcam tool for showing docs on ur table with ease.
  
-- 🎈My dream is...
-  - Collaborating with [Zutomayo](https://zutomayo.net) as an artist.
-  - Holding a museum exhibition as a contemporary artist.
+### 🎈My dream is...
+  - Collaborating with [Zutomayo](https://zutomayo.net) as an artist🦔.
+  - Holding a museum exhibition as a contemporary artist🎨.
 
-- 📫 How to reach me: itsukikigoshi+github[at]gmail.com
+### 📫 How to reach me: itsukikigoshi+github[at]gmail.com
 
 <!--
 **ItsukiKigoshi/ItsukiKigoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
