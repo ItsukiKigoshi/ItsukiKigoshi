@@ -2,12 +2,12 @@
 I'm NOT an engineer but wanna be a creator/artist.
 
 ### 🔭I’m currently thinking of creating...
+- [open-desk-view](https://github.com/ItsukiKigoshi/open-desk-view): Open-sourced webcam tool for easily showing docs on ur table in online meetings like [Apple's 'Desk View'](https://support.apple.com/en-gb/guide/mac-help/mchl06927be8/mac).
+- [ICU Catalogue](https://github.com/ItsukiKigoshi/icu-catalogue): Powerful syllabi search engine and academic planning tool for ICU students.
 - [Shinonome Bunko](https://github.com/ItsukiKigoshi/shinonome-bunko): Automated git-based OCR&peer-review platform for publishing public domain Japanese literature as e-books.
 - [Curhythm](https://github.com/ItsukiKigoshi/curhythm): Rubik's Cube-alike musical instrument to generate beat, melody, harmony & video.
-- [ICU Catalogue](https://github.com/ItsukiKigoshi/icu-catalogue): Powerful syllabi search engine and academic planning tool for ICU students.
 - OpenPoliCash: Git-based open-source 政治資金収支報告書 database with an Open Data
-- open-desk-view: Open-sourced webcam tool for easily showing docs on ur table in online meetings like [Apple's 'Desk View'](https://support.apple.com/en-gb/guide/mac-help/mchl06927be8/mac).
- 
+
 ### 🎈My dream is...
   - Collaborating with [Zutomayo](https://zutomayo.net) as an artist🦔.
   - Holding a museum exhibition as a contemporary artist🎨.
