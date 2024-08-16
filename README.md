@@ -32,7 +32,7 @@ I'm NOT an engineer, but wanna be a creator/artist.
 - 🥼 [Japanese Red Cross Society](https://www.jrc.or.jp)
 - 🦉 [Duolingo](https://www.duolingo.com/)
 - 🍣 [Digital Agency, Government of Japan](https://www.digital.go.jp)
-- 🌳 [林野庁 (a part of the Ministry of Agriculture, Forestry and Fisheries), Government of Japan](https://www.rinya.maff.go.jp)
+- 🌳 [林野庁, Government of Japan](https://www.rinya.maff.go.jp)
 - 🥒 [きゅうりトマトなすび](https://www.cte-agri.com)
 - 🌎 Open Source Community
 - 🕰 Lifelong Education (incl. child education)
