@@ -16,13 +16,13 @@ I'm NOT an engineer, but wanna be a creator/artist.
 - 🥅 [TypeScript](https://www.typescriptlang.org/)/JavaScript
 - 🐍 [Python](https://www.python.org)
 
-### I'm learning:
+### 🌱 I'm learning:
 - 🥋 Liberal Arts (Math, Education, Physics, Economics, Politics, etc.) in [ICU](https://www.icu.ac.jp)
 - ⛴ Data Science with [Kaggle](https://www.kaggle.com)
 - 🇫🇷 French/Français with [Duolingo](https://www.duolingo.com/)
 - 🇨🇳🇹🇼🇭🇰 Chinese/漢語/汉语 with [HelloChinese](http://www.hellochinese.cc)
 
-### I'd like to study at:
+### 💬 I'd like to study at:
 - 🧪 [MIT Media Lab](https://www.media.mit.edu)
 - ☀️ [OIST](https://www.oist.jp)
 
@@ -43,17 +43,3 @@ I'm NOT an engineer, but wanna be a creator/artist.
 - 🐈 [Scratch Foundation](https://www.scratchfoundation.org)
 
 ### 📫 How to reach me: itsukikigoshi+github[at]gmail.com
-
-<!--
-**ItsukiKigoshi/ItsukiKigoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
