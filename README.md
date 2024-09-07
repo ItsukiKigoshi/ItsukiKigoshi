@@ -22,24 +22,4 @@ I'm NOT an engineer, but wanna be a creator/artist.
 * 🇫🇷 French/Français with [Duolingo](https://www.duolingo.com/)
 * 🇨🇳/🇹🇼/🇭🇰 Chinese/漢語/汉语 with [HelloChinese](http://www.hellochinese.cc)
 
-# 💬 I'd like to study at:
-* 🧪 [MIT Media Lab](https://www.media.mit.edu)
-* ☀️ [OIST](https://www.oist.jp)
-
-# 🏃‍♀️ I'm interested in working for/at/on:
-* ⛰ [YAMAP](https://yamap.com)
-* 👩‍⚕️ [Médecins Sans Frontières](https://www.msf.org)
-* 🥼 [Japanese Red Cross Society](https://www.jrc.or.jp)
-* 🦉 [Duolingo](https://www.duolingo.com/)
-* 🍣 [Digital Agency, Government of Japan](https://www.digital.go.jp)
-* 🌳 [林野庁, Government of Japan](https://www.rinya.maff.go.jp)
-* 🥒 [きゅうりトマトなすび](https://www.cte-agri.com)
-* 🌎 Open Source Community
-* 🕰 Lifelong Education (incl. child education)
-* 🐄 Local Farm
-* 🚨 [特務機関NERV防災](https://nerv.app) ([Gehirn Inc.](https://www.gehirn.co.jp))
-* 🐘 [Evernote](https://evernote.com) ([Bending Spoons](https://bendingspoons.com))
-* 🍓 [Raspberry Pi Foundation](https://www.raspberrypi.org/)
-* 🐈 [Scratch Foundation](https://www.scratchfoundation.org)
-
 # 📫 How to reach me: itsukikigoshi+github[at]gmail.com
