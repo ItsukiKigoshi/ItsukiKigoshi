@@ -6,7 +6,7 @@
 
 ## Core Interests
 - Public Policy, Math, Contemporary Art
-- Mountains
+- Climbing a Mountain
 
 
 # 📫 How to reach me
