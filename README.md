@@ -30,4 +30,4 @@
 - [ ] 🏚️友人の古民家リフォーム
 - [ ] 🎥映像素材管理
 - [ ] 🦉[Duolingo Maker](https://github.com/ItsukiKigoshi/duolingo-maker)
-- [ ] 🏫Moodle Instance for Japanese Public Junior High School
+- [ ] 🏫[Moodle Junior](https://github.com/ItsukiKigoshi/moodle-junior): Moodle Instance for Japanese Public Junior High School
