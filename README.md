@@ -31,3 +31,7 @@
 - [ ] 🎥映像素材管理
 - [ ] 🦉[Duolingo Maker](https://github.com/ItsukiKigoshi/duolingo-maker)
 - [ ] 🏫[Moodle Junior](https://github.com/ItsukiKigoshi/moodle-junior)
+- [ ] 🚋満員電車を使わなくても良い場所にオフィスをつくる（doesn't have to be in personだけど対面の意義も加味して）
+  - [ ] 高尾山オフィス&高尾山ピッチ   
+- [ ] 🇨🇳🇹🇼🇭🇰我想說中文
+- [ ] Khmer, Thai, Burmese
