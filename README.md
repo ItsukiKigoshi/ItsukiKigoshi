@@ -15,19 +15,19 @@
 - [x] [Open Desk View](https://github.com/ItsukiKigoshi/open-desk-view) (2024)
 - [x] [Shinonome Bunko](https://github.com/ItsukiKigoshi/shinonome-bunko) Demo (2024)
 ### What I am currently working on:
-- [ICU Catalogue](https://github.com/ItsukiKigoshi/icu-catalogue)
-- 山登り
-- Étudier le français avec Duolingo
+- 📘[ICU Catalogue](https://github.com/ItsukiKigoshi/icu-catalogue)
+- ⛰️山登り
+- 🇫🇷Étudier le français avec Duolingo
 ### What I wanna do:
-- [ ] 魚を捌く
-- [ ] [Super↑Rat](https://github.com/ItsukiKigoshi/super-rat)
-- [ ] Film Development🎞
-- [ ] Base Guitar
-- [ ] 絵を描く
-- [ ] ビレイヤー de ロープクライミング
-- [ ] 楽器をつくる
-- [ ] 服をつくる
-- [ ] 友人の古民家リフォーム
-- [ ] 映像素材管理
-- [ ] [Duolingo Maker](https://github.com/ItsukiKigoshi/duolingo-maker)
-- [ ] Moodle Instance for Japanese Public Junior High School
+- [ ] 🐟魚を捌く
+- [ ] 🐀[Super↑Rat](https://github.com/ItsukiKigoshi/super-rat)
+- [ ] 🎞Film Development
+- [ ] 🎸Base Guitar
+- [ ] 🖼️絵を描く
+- [ ] 🧗‍♀️ビレイヤー de ロープクライミング
+- [ ] 🎺楽器をつくる
+- [ ] 👚服をつくる
+- [ ] 🏚️友人の古民家リフォーム
+- [ ] 🎥映像素材管理
+- [ ] 🦉[Duolingo Maker](https://github.com/ItsukiKigoshi/duolingo-maker)
+- [ ] 🏫Moodle Instance for Japanese Public Junior High School
