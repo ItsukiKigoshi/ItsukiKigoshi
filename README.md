@@ -18,6 +18,7 @@
 - 📘[ICU Catalogue](https://github.com/ItsukiKigoshi/icu-catalogue)
 - ⛰️[山登り](https://yamap.com/users/3971974)
 - 🧗‍♀️Bouldering
+  - 🪢ビレイヤー de ロープクライミング
 - 🇫🇷Étudier le français avec [Duolingo](https://www.duolingo.com/profile/ItsukiKigoshi)
 ### What I wanna do:
 - [ ] 🐟魚を捌く
@@ -25,7 +26,6 @@
 - [ ] 🎞Film Development
 - [ ] 🎸Base Guitar
 - [ ] 🖼️絵を描く
-- [ ] 🪢ビレイヤー de ロープクライミング
 - [ ] 🎺楽器をつくる
 - [ ] 👚服をつくる
 - [ ] 🏚️友人の古民家リフォーム
