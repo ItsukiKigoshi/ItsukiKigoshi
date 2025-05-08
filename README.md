@@ -28,7 +28,7 @@
 - [ ] 🎺楽器をつくる
 - [ ] 👚服をつくる
 - [ ] 🏚️友人の古民家リフォーム
-- [ ] 📞[Open Desk View](https://github.com/ItsukiKigoshi/open-desk-view): FaceTimeしながら友達と旅行計画を立てる．紙で．
+- [ ] 📞[Open Desk View](https://github.com/ItsukiKigoshi/open-desk-view): 机上で紙とペンで旅行計画を立てたい over FaceTime
 - [ ] 🎥映像素材管理
 - [ ] 🦉[Duolingo Maker](https://github.com/ItsukiKigoshi/duolingo-maker)
 - [ ] 🏫[Moodle Junior](https://github.com/ItsukiKigoshi/moodle-junior)
