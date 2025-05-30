@@ -15,7 +15,7 @@
 - [x] [ICU Catalogue](https://github.com/ItsukiKigoshi/icu-catalogue) (2023-)
 - [x] [Shinonome Bunko](https://github.com/ItsukiKigoshi/shinonome-bunko) Demo (2025)
 ### What I Love:
--　♾️Mathematics （専門を見つける)
+- ♾️Mathematics （専門を見つける)
 - 📸[Taking Photos](https://www.instagram.com/itsukikigoshi/)
   - Film Camera (RICOH), Digital Camera (Olympus), iPhone (Apple)
 - ⛰️[Mountain Climbing](https://yamap.com/users/3971974)
