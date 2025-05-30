@@ -12,7 +12,7 @@
 - [x] [ヒューマン・ビギン：アシタナニスル?](https://theatreforall.net/movie/human-begin-what-arewedoingtomorrow/) 出演 (2021)
 - [x] [日比谷高校文化祭・オンライン整理券システム](http://2023.seiryofes.com) 見た目の開発 (2023)
 - [x] [YCAMオープンラボ2023 もうひとつの学び場](https://www.ycam.jp/events/2023/openlab/) 登壇 (2023)
-- [x] 📘[ICU Catalogue](https://github.com/ItsukiKigoshi/icu-catalogue) (2023-)
+- [x] [ICU Catalogue](https://github.com/ItsukiKigoshi/icu-catalogue) (2023-)
 - [x] [Shinonome Bunko](https://github.com/ItsukiKigoshi/shinonome-bunko) Demo (2025)
 ### What I Love:
 -　♾️Mathematics （専門を見つける)
