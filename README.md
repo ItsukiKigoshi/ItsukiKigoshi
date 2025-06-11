@@ -6,7 +6,6 @@
 - Profile: [https://itsukikigoshi.github.io/](https://itsukikigoshi.github.io/)
 - Email: itsukikigoshi+githubio[at]gmail.com
 
-
 ### What I've Done:
 - [x] [キゴシムービー](https://www.youtube.com/@itsukikigoshi) (2013-15ごろ)
 - [x] [ヒューマン・ビギン：アシタナニスル?](https://theatreforall.net/movie/human-begin-what-arewedoingtomorrow/) 出演 (2021)
@@ -14,6 +13,7 @@
 - [x] [YCAMオープンラボ2023 もうひとつの学び場](https://www.ycam.jp/events/2023/openlab/) 登壇 (2023)
 - [x] [ICU Catalogue](https://github.com/ItsukiKigoshi/icu-catalogue) (2023-)
 - [x] [Shinonome Bunko](https://github.com/ItsukiKigoshi/shinonome-bunko) Demo (2025)
+
 ### What I Love to Do:
 - ♾️Mathematics （専門を見つける！)
 - 📸[Taking Photos](https://www.instagram.com/itsukikigoshi/)
@@ -22,9 +22,11 @@
 - 🧗‍♀️[Bouldering](https://www.instagram.com/icuboulderingclub/)
   - 🪢ビレイヤー de ロープクライミング
 - 🇫🇷Étudier le français avec [Duolingo](https://www.duolingo.com/profile/ItsukiKigoshi)
+
 ### What I am Currently Working on:
 - [x] 🐟魚を捌く
 - [x] 💃Contemporary Dance
+
 ### What I Wanna Do:
 - [ ] 🐀[Super↑Rat](https://github.com/ItsukiKigoshi/super-rat)
 - [ ] ⏳[Loading Music](https://github.com/ItsukiKigoshi/road-to-be-loaded)
@@ -50,7 +52,8 @@
 - [ ] 👀🚗[EYES-ON-U](https://github.com/ItsukiKigoshi/eyes-on-u): 自動運転車に目を付ける; waymoに"Cars"みたいに目を付けて他の歩行者や運転者とコミュニケーション取れるようにしたら？like 猫ロボットinすかいらーく
 
 ## Where I Wanna Work/Study (all futures are tentative)
-Key Values: Make Education, Natural Environment, Healthcare Widely Accessible Across the Globe
+Core Value: Make Education, Natural Environment, Healthcare Widely Accessible Across the Globe
+
 ### Cluster 0 (Grad. School)
 - [MIT Media Lab](https://www.media.mit.edu)
 - [OIST](https://www.oist.jp)
@@ -60,7 +63,12 @@ Key Values: Make Education, Natural Environment, Healthcare Widely Accessible Ac
 - [YAMAP](https://corporate.yamap.co.jp)
 - [mairu tech](https://www.mairutech.com)
 - [Sakana AI](https://sakana.ai)
-- (Makers that I Just Like, ただ好きなだけ: [Moodle](https://moodle.org), [Evernote](https://evernote.com/ja-jp), [Ricoh Imaging](https://www.ricoh-imaging.co.jp/japan/), [OM Dijgital Solutions (ex-Olymapus)]([https://www.olympus.co.jp](https://jp.omsystem.com)), [ZEBRA(文具)](https://www.zebra.co.jp/)）
+- Makers that I Just Like (ただ好きなだけ):
+  - [Evernote](https://evernote.com/ja-jp)
+  - [Ricoh Imaging](https://www.ricoh-imaging.co.jp/japan/)
+  - [OM Dijgital Solutions (ex-Olymapus)]([https://www.olympus.co.jp](https://jp.omsystem.com))
+  - [ZEBRA(文具)](https://www.zebra.co.jp/)
+  - [Moodle](https://moodle.org)
 
 ### Cluster 2 (Mid Career)
 - [Médecins Sans Frontières](https://www.msf.org)
