@@ -22,8 +22,10 @@
 - 🧗‍♀️[Bouldering](https://www.instagram.com/icuboulderingclub/)
   - 🪢ビレイヤー de ロープクライミング
 - 🇫🇷Étudier le français avec [Duolingo](https://www.duolingo.com/profile/ItsukiKigoshi)
+### What I am Currently Working on:
+- [x] 🐟魚を捌く
+- [x] 💃Contemporary Dance
 ### What I Wanna Do:
-- [ ] 🐟魚を捌く
 - [ ] 🐀[Super↑Rat](https://github.com/ItsukiKigoshi/super-rat)
 - [ ] ⏳[Loading Music](https://github.com/ItsukiKigoshi/road-to-be-loaded)
 - [ ] 🎞Film Development
@@ -32,7 +34,6 @@
 - [ ] 🎺楽器をつくる
 - [ ] 👚服をつくる
 - [ ] 🏚️友人の古民家リフォーム
-- [ ] 💃Contemporary Dance
 - [ ] 📞[Open Desk View](https://github.com/ItsukiKigoshi/open-desk-view): 机上で紙とペンで旅行計画を立てたい over FaceTime
 - [ ] 🎥映像素材管理
 - [ ] 🦉[Duolingo Maker](https://github.com/ItsukiKigoshi/duolingo-maker)
@@ -47,3 +48,34 @@
 - [ ] 🚰超音波と衛星画像で私有地と公営の水道管破損率を地区別に予測する
 - [ ] 🌾田んぼをフランチャイズする
 - [ ] 👀🚗[EYES-ON-U](https://github.com/ItsukiKigoshi/eyes-on-u): 自動運転車に目を付ける; waymoに"Cars"みたいに目を付けて他の歩行者や運転者とコミュニケーション取れるようにしたら？like 猫ロボットinすかいらーく
+
+## Where I Wanna Work/Study (all futures are tentative)
+Key Values: Make Education, Natural Environment, Healthcare Widely Accessible Across the Globe
+### Cluster 0 (Grad. School)
+- [MIT Media Lab](https://www.media.mit.edu)
+- [OIST](https://www.oist.jp)
+
+### Cluster 1 (First Career)
+- [Duolingo](https://careers.duolingo.com)
+- [YAMAP](https://corporate.yamap.co.jp)
+- [mairu tech](https://www.mairutech.com)
+- [Sakana AI](https://sakana.ai)
+- (Makers that I Just Like, ただ好きなだけ: [Moodle](https://moodle.org), [Evernote](https://evernote.com/ja-jp), [Ricoh Imaging](https://www.ricoh-imaging.co.jp/japan/), [OM Dijgital Solutions (ex-Olymapus)]([https://www.olympus.co.jp](https://jp.omsystem.com)), [ZEBRA(文具)](https://www.zebra.co.jp/)）
+
+### Cluster 2 (Mid Career)
+- [Médecins Sans Frontières](https://www.msf.org)
+- [Red Cross/Crescent](https://www.icrc.org/en)
+- [林野庁, Government of Japan](https://www.rinya.maff.go.jp)
+- [Digital Agency, Government of Japan](https://www.digital.go.jp)
+- [Ville de Paris](https://www.paris.fr)
+- [City of New York](https://www.nyc.gov)
+- [Barcelona City Council](https://www.barcelona.cat/en)
+- [EU](https://european-union.europa.eu/index_fr)
+- [UN](https://www.un.org/en/)
+- [GovTech Tokyo](https://www.govtechtokyo.or.jp)
+- [Centre Pompidou](https://www.centrepompidou.fr/fr/)
+
+### Cluster 3 (Later Career)
+- Researcher/Professor at Higehr Educational Institutes
+- Education to Children taken place in a Forest
+- Construct Public Library, Museum (doesn't have to be physical)
