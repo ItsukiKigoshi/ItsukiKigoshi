@@ -28,8 +28,8 @@
 - [x] 💃Contemporary Dance
 
 ### What I Wanna Do:
-- [ ] 🐀[Super↑Rat](https://github.com/ItsukiKigoshi/super-rat)
-- [ ] ⏳[Loading Music](https://github.com/ItsukiKigoshi/road-to-be-loaded)
+- [ ] 🐀[Super↑Rat](https://github.com/ItsukiKigoshi/super-rat): Predicting the Mice Distribution in Cities
+- [ ] ⏳[Loading Music](https://github.com/ItsukiKigoshi/road-to-be-loaded): Sound Loadings
 - [ ] 🎞Film Development
 - [ ] 🎸Base Guitar
 - [ ] 🖼️絵を描く
@@ -39,9 +39,9 @@
 - [ ] 📞[Open Desk View](https://github.com/ItsukiKigoshi/open-desk-view): 机上で紙とペンで旅行計画を立てたい over FaceTime
 - [ ] 🎥映像素材管理
 - [ ] 🦉[Duolingo Maker](https://github.com/ItsukiKigoshi/duolingo-maker)
-- [ ] 🏫[Moodle Junior](https://github.com/ItsukiKigoshi/moodle-junior)
+- [ ] 🏫[Moodle Junior](https://github.com/ItsukiKigoshi/moodle-junior): Where the course materials are gathered, for Japanese junior high school students, open source, be free from 教科書会社の思惑
 - [ ] 🚋満員電車を使わなくても良い場所にオフィスをつくる（doesn't have to be in personだけど対面の意義も加味して）
-  - [ ] 高尾山オフィス&高尾山ピッチ   
+  - [ ] 高尾山オフィス&高尾山ピッチ: Place an Office near Mt. Takao and Do Mt.Takao Pitch (cf. Elevetor Pitch), where I can check 取引先’ｓ 体力 physically & mentally. Ppl can talk ざっくばらんに on a mountain😉
 - [ ] 🇨🇳🇹🇼🇭🇰我想說中文
 - [ ] 🇰🇭Khmer, 🇹🇭Thai, 🇲🇲Burmese
 - [ ] 🪡Research on Fashion Industry: 労働環境，歩留まり，廃棄率，古着市場の廃棄，廃棄先，ZARA, 古着屋, ファストリ,  パブローブ
