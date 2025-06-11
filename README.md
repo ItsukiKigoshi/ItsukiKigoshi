@@ -66,7 +66,7 @@ Core Value: Make Education, Natural Environment, Healthcare Widely Accessible Ac
 - Makers that I Just Like (ただ好きなだけ):
   - [Evernote](https://evernote.com/ja-jp)
   - [Ricoh Imaging](https://www.ricoh-imaging.co.jp/japan/)
-  - [OM Dijgital Solutions (ex-Olymapus)]([https://www.olympus.co.jp](https://jp.omsystem.com))
+  - [OM Dijgital Solutions (ex-Olymapus)](https://jp.omsystem.com)
   - [ZEBRA(文具)](https://www.zebra.co.jp/)
   - [Moodle](https://moodle.org)
 
