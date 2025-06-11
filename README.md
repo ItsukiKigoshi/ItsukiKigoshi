@@ -51,14 +51,16 @@
 - [ ] 🌾田んぼをフランチャイズする
 - [ ] 👀🚗[EYES-ON-U](https://github.com/ItsukiKigoshi/eyes-on-u): 自動運転車に目を付ける; waymoに"Cars"みたいに目を付けて他の歩行者や運転者とコミュニケーション取れるようにしたら？like 猫ロボットinすかいらーく
 
-## Where I Wanna Work/Study (all futures are tentative)
+## What I Wanna Live For (all futures are tentative)
 Core Value: Make Education, Natural Environment, Healthcare Widely Accessible Across the Globe
 
 ### Cluster 0 (Grad. School)
+value: 学び足りることはない
 - [MIT Media Lab](https://www.media.mit.edu)
 - [OIST](https://www.oist.jp)
 
 ### Cluster 1 (First Career)
+value: 小さなことからコツコツと
 - [Duolingo](https://careers.duolingo.com)
 - [YAMAP](https://corporate.yamap.co.jp)
 - [mairu tech](https://www.mairutech.com)
@@ -67,10 +69,11 @@ Core Value: Make Education, Natural Environment, Healthcare Widely Accessible Ac
   - [Evernote](https://evernote.com/ja-jp)
   - [Ricoh Imaging](https://www.ricoh-imaging.co.jp/japan/)
   - [OM Dijgital Solutions (ex-Olympus)](https://jp.omsystem.com)
-  - [ZEBRA(文具)](https://www.zebra.co.jp/)
+  - [ZEBRA (文具)](https://www.zebra.co.jp/)
   - [Moodle](https://moodle.org)
 
 ### Cluster 2 (Mid Career)
+value: とりあえず大風呂敷を広げてみる
 - [Médecins Sans Frontières](https://www.msf.org)
 - [Red Cross/Crescent](https://www.icrc.org/en)
 - [林野庁, Government of Japan](https://www.rinya.maff.go.jp)
@@ -82,8 +85,10 @@ Core Value: Make Education, Natural Environment, Healthcare Widely Accessible Ac
 - [UN](https://www.un.org/en/)
 - [GovTech Tokyo](https://www.govtechtokyo.or.jp)
 - [Centre Pompidou](https://www.centrepompidou.fr/fr/)
+- Raise Children with Books and the Nature, Free from 喧噪 of Cities, TVs, the Internets
 
 ### Cluster 3 (Later Career)
+value: 次代に繋げる, 時代を繋げる
 - Researcher/Professor at Higehr Educational Institutes
 - Education to Children taken place in a Forest
 - Construct Public Library, Museum (doesn't have to be physical)
