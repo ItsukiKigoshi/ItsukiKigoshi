@@ -49,6 +49,7 @@
 - [ ] 🗳選挙カーと街頭演説に加えて，日本の選挙を面白くする選挙手法を考える．そもそも選挙の形から
 - [ ] 🚰超音波と衛星画像で私有地と公営の水道管破損率を地区別に予測する
 - [ ] 🌾田んぼをフランチャイズする
+- [ ] 🌰Acorn_Classification: どんぐり経済圏への重要な布石
 - [ ] 👀🚗[EYES-ON-U](https://github.com/ItsukiKigoshi/eyes-on-u): 自動運転車に目を付ける; waymoに"Cars"みたいに目を付けて他の歩行者や運転者とコミュニケーション取れるようにしたら？like 猫ロボットinすかいらーく
 
 ## What I Wanna Live For (all futures are tentative)
