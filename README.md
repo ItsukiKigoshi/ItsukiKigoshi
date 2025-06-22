@@ -67,11 +67,13 @@ value: 小さなことからコツコツと
 - [mairu tech](https://www.mairutech.com)
 - [Sakana AI](https://sakana.ai)
 - Makers that I Just Like (ただ好きなだけ):
-  - [Evernote](https://evernote.com/ja-jp)
   - [Ricoh Imaging](https://www.ricoh-imaging.co.jp/japan/)
   - [OM Dijgital Solutions (ex-Olympus)](https://jp.omsystem.com)
+  - [Moneytree](https://getmoneytree.com/jp/home)
+  - (Especially 昔の) [Evernote](https://evernote.com/ja-jp)
   - [ZEBRA (文具)](https://www.zebra.co.jp/)
   - [Moodle](https://moodle.org)
+
 
 ### Cluster 2 (Mid Career)
 value: とりあえず大風呂敷を広げてみる
