@@ -24,6 +24,7 @@
 - 🇫🇷Étudier le français avec [Duolingo](https://www.duolingo.com/profile/ItsukiKigoshi)
 
 ### What I am Currently Working on:
+- [x] 🎸Bass Guitar
 - [x] 🐟魚を捌く
 - [x] 💃Contemporary Dance
 
@@ -31,7 +32,6 @@
 - [ ] 🐀[Super↑Rat](https://github.com/ItsukiKigoshi/super-rat): Predicting the Mice Distribution in Cities
 - [ ] ⏳[Loading Music](https://github.com/ItsukiKigoshi/road-to-be-loaded): Sound Loadings
 - [ ] 🎞Film Development
-- [ ] 🎸Base Guitar
 - [ ] 🖼️絵を描く
 - [ ] 🎺楽器をつくる
 - [ ] 👚服をつくる
