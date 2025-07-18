@@ -1,20 +1,23 @@
 # Hi there, こんにちは 👋
 ## Itsuki Kigoshi (2004-; Tokyo, Japan)
 - I'm a junior (3 ねんせい) student at International Christian University (Tokyo, Japan) majoring in mathematics.
+  - 国際基督教大学で数学を専攻している大学3年生です．
 - Math, Contemporary Art と ちょっと山登り
+  - 数学と現代アートと，ちょっと山登りをするのが好きです
 - I value and believe in the power of academia, the arts, and open source.
+  - 学問，芸術，オープンソースの力を信じています．
 - Profile: [https://itsukikigoshi.github.io/](https://itsukikigoshi.github.io/)
 - Email: itsukikigoshi+githubio[at]gmail.com
 
-### What I've Done:
+### What I've Done / これまでやったこと:
 - [x] [キゴシムービー](https://www.youtube.com/@itsukikigoshi) (2013-15ごろ)
-- [x] [ヒューマン・ビギン：アシタナニスル?](https://theatreforall.net/movie/human-begin-what-arewedoingtomorrow/) 出演 (2021)
+- [x] [ヒューマン・ビギン：アシタナニスル?](https://theatreforall.net/movie/human-begin-what-arewedoingtomorrow/) ダンス出演 (2021)
 - [x] [日比谷高校文化祭・オンライン整理券システム](http://2023.seiryofes.com) 見た目の開発 (2023)
 - [x] [YCAMオープンラボ2023 もうひとつの学び場](https://www.ycam.jp/events/2023/openlab/) 登壇 (2023)
 - [x] [ICU Catalogue](https://github.com/ItsukiKigoshi/icu-catalogue) (2023-)
 - [x] [Shinonome Bunko](https://github.com/ItsukiKigoshi/shinonome-bunko) Demo (2025)
 
-### What I Love to Do:
+### What I Love to Do / 好きなこと:
 - ♾️Mathematics （専門を見つける！)
 - 📸[Taking Photos](https://www.instagram.com/itsukikigoshi/)
   - Film Camera (RICOH), Digital Camera (Olympus), iPhone (Apple)
@@ -23,12 +26,13 @@
   - 🪢ビレイヤー de ロープクライミング
 - 🇫🇷Étudier le français avec [Duolingo](https://www.duolingo.com/profile/ItsukiKigoshi)
 
-### What I am Currently Working on:
+### What I am Currently Working on / やっていること:
 - [x] 🎸Bass Guitar
-- [x] 🐟魚を捌く
-- [x] 💃Contemporary Dance
+- [x] Piano
+- [x] 🐟魚を捌く?
+- [x] 💃Contemporary Dance?
 
-### What I Wanna Do:
+### What I Wanna Do / やりたいこと:
 - [ ] 🐀[Super↑Rat](https://github.com/ItsukiKigoshi/super-rat): Predicting the Mice Distribution in Cities
 - [ ] ⏳[Loading Music](https://github.com/ItsukiKigoshi/road-to-be-loaded): Sound Loadings
 - [ ] 🎞Film Development
@@ -52,30 +56,31 @@
 - [ ] 🌰Acorn_Classification: どんぐり経済圏への重要な布石
 - [ ] 👀🚗[EYES-ON-U](https://github.com/ItsukiKigoshi/eyes-on-u): 自動運転車に目を付ける; waymoに"Cars"みたいに目を付けて他の歩行者や運転者とコミュニケーション取れるようにしたら？like 猫ロボットinすかいらーく
 
-## What I Wanna Live For (all futures are tentative)
+## What I Wanna Live For (all futures are tentative) / これのために生きたいこと（すべての未来は未だ来ていない）
 Core Value: Make Education, Natural Environment, Healthcare Widely Accessible Across the Globe
 
-### Cluster 0 (Grad. School)
+### Cluster 0 (Grad. School) / 大学院
 value: 学び足りることはない
 - [MIT Media Lab](https://www.media.mit.edu)
 - [OIST](https://www.oist.jp)
 
-### Cluster 1 (First Career)
+### Cluster 1 (First Career) / はじめの一歩
 value: 小さなことからコツコツと
-- [Duolingo](https://careers.duolingo.com)
 - [YAMAP](https://corporate.yamap.co.jp)
+- [天地人](https://tenchijin.co.jp/)
+- [Duolingo](https://careers.duolingo.com)
 - [mairu tech](https://www.mairutech.com)
 - [Sakana AI](https://sakana.ai)
 - Makers that I Just Like (ただ好きなだけ):
   - [Ricoh Imaging](https://www.ricoh-imaging.co.jp/japan/)
-  - [OM Dijgital Solutions (ex-Olympus)](https://jp.omsystem.com)
+  - [OM Digital Solutions (ex-Olympus)](https://jp.omsystem.com)
   - [Moneytree](https://getmoneytree.com/jp/home)
   - (Especially 昔の) [Evernote](https://evernote.com/ja-jp)
   - [ZEBRA (文具)](https://www.zebra.co.jp/)
   - [Moodle](https://moodle.org)
 
 
-### Cluster 2 (Mid Career)
+### Cluster 2 (Mid Career) / 行きたいところ
 value: とりあえず大風呂敷を広げてみる
 - [Médecins Sans Frontières](https://www.msf.org)
 - [Red Cross/Crescent](https://www.icrc.org/en)
