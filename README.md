@@ -1,11 +1,8 @@
 # Hi there, こんにちは 👋
 ## Itsuki Kigoshi (2004-; Tokyo, Japan)
 - I'm a junior (3 ねんせい) student at International Christian University (Tokyo, Japan) majoring in mathematics.
-  - 国際基督教大学で数学を専攻している大学3年生です．
 - Math, Contemporary Art と ちょっと山登り
-  - 数学と現代アートと，ちょっと山登りをするのが好きです
 - I value and believe in the power of academia, the arts, and open source.
-  - 学問，芸術，オープンソースの力を信じています．
 - Profile: [https://itsukikigoshi.github.io/](https://itsukikigoshi.github.io/)
 - Email: itsukikigoshi+githubio[at]gmail.com
 
