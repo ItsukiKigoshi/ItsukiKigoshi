@@ -16,7 +16,7 @@
 - 🇫🇷Étudier le français avec [Duolingo](https://www.duolingo.com/profile/ItsukiKigoshi)
 
 ### What I've Done / これまでやったこと:
-- [x] [キゴシムービー](https://www.youtube.com/@itsukikigoshi) (2013-15ごろ)
+- [x] [キゴシムービー](https://youtube.com/playlist?list=PLVxEAWkQVBq7ZLbCohJz4OtNNkQ6UMr0c) (2013-15ごろ)
 - [x] [ヒューマン・ビギン：アシタナニスル?](https://theatreforall.net/movie/human-begin-what-arewedoingtomorrow/) ダンス出演 (2021)
 - [x] [日比谷高校文化祭・オンライン整理券システム](http://2023.seiryofes.com) 見た目の開発 (2023)
 - [x] [YCAMオープンラボ2023 もうひとつの学び場](https://www.ycam.jp/events/2023/openlab/) 登壇 (2023)
