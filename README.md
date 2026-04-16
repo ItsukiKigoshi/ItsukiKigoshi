@@ -3,4 +3,5 @@
 - Earth Science, Contemporary Art, Climbing
 - I value and believe in the power of academia, the arts, and open source.
 - Profile: [https://itsukikigoshi.github.io/](https://itsukikigoshi.github.io/)
+- GitLab: [https://gitlab.com/ItsukiKigoshi](https://gitlab.com/ItsukiKigoshi)
 - Email: itsukikigoshi+github[at]gmail.com
