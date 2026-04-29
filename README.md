@@ -4,4 +4,4 @@
 - 🫀Earth Science, Contemporary Art, Climbing
 - 🎿I value and believe in the power of academia, the arts, and open source.
 - Profile: [https://cimetier.org/](https://cimetier.org/)
-- Email: itsuki[at]cimetier.org
+- Email: itsukilkigoshi[at]gmail.com
